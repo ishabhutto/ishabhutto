@@ -36,13 +36,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
 
-<hr>
-<center>
-<a href="https://github.com/ishabhutto">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishabhutto&show_icons=true&theme=dark&line_height=40" alt="Isha's github stats"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhutto&langs_count=5&theme=dark" alt="Isha's github stats"/>
-</a>
-<hr>
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,6 +44,16 @@
 <a href="https://fb.com/https:/https://www.facebook.com/isha.bhutto.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/isha.bhutto.5" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ishabhutto3064/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ishabhutto3064/" height="30" width="40" /></a>
 </p>
+
+
+<hr>
+<center>
+<a href="https://github.com/ishabhutto">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishabhutto&show_icons=true&theme=dark&line_height=40" alt="Isha's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhutto&langs_count=5&theme=dark" alt="Isha's github stats"/>
+</a>
+<hr>
+
   
 <div align="center">
 
