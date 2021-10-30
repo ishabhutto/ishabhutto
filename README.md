@@ -51,6 +51,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishabhutto&show_icons=true&theme=dark&line_height=40" alt="Isha's github stats"/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhutto&langs_count=5&theme=dark" alt="Isha's github stats"/>
 </a>
+<a href="https://stackoverflow.com/users/16891040/isha-bhutto" target="_blank">
+<img alt="Isha Bhutto | StackOverFlow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
 <hr>
 
   
