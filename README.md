@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Java & Web development.
+- 🔭 I’m currently working on Java and Kotlin.
 - 🌱 I’m currently learning more about Web development.
 - 💬 Ask me about languages like c++ , java or any programming related stuff.
 - 📫 How to reach me: [Facebook - Isha Bhutto](https://www.facebook.com/isha.bhutto.5/).
