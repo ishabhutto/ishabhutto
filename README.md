@@ -18,9 +18,9 @@
 
 <p align="left"> <a href="https://twitter.com/ishabhutto" target="blank"><img src="https://img.shields.io/twitter/follow/ishabhutto?logo=twitter&style=for-the-badge" alt="ishabhutto" /></a> </p>
 
-- 🔭 I’m currently working on Java and Kotlin.
-- 🌱 I’m currently learning more about java.
-- 💬 Ask me about languages like c++ , java or any programming related stuff.
+- 🔭 I’m currently working on Web development.
+- 🌱 I’m currently learning more about web.
+- 💬 Ask me about html , css , php , wordpress any web development related stuff.
 - 📫 How to reach me: [Facebook - Isha Bhutto](https://www.facebook.com/isha.bhutto.5/).
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I am a Video Editor🙃.
