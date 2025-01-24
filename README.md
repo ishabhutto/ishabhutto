@@ -86,7 +86,6 @@ I’m a **Software Engineer** with specialized expertise in **Flutter Developmen
 <p align="left">
 <a href="https://twitter.com/ishabhutto" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/isha-bhutto-29359621b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/ishabhutto3064/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://stackoverflow.com/users/16891040/isha-bhutto" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
 </p>  
 
