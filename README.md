@@ -1,39 +1,82 @@
-## Hi, I'm Isha Bhutto! 👋
-I am a passionate **Flutter Developer** with expertise in building efficient, scalable, and visually stunning applications. With hands-on experience in mobile and web development, I enjoy tackling complex challenges and turning ideas into reality. 
+## Hi, I'm Isha Bhutto! 👋  
+I am a passionate **Flutter Developer** with expertise in building efficient, scalable, and visually stunning applications. With hands-on experience in mobile and web development, I enjoy tackling complex challenges and turning ideas into reality.  
 
 ---
 
-### 🚀 **About Me**
-- 🔭 Currently enhancing my expertise in **Flutter** and **Full-Stack Development**.
-- 🌱 Enhancing my **Flutter development skills** while collaborating on international projects.
-- 🎨 Strong advocate for **clean code** and **intuitive user interfaces**.
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/isha-bhutto-29359621b/) or [Email](mailto:ishabhuutto@gmail.com).
+### 🚀 **About Me**  
+- 🔭 Currently enhancing my expertise in **Flutter** and **Full-Stack Development**.  
+- 🌱 Enhancing my **Flutter development skills** while collaborating on international projects.  
+- 🎨 Strong advocate for **clean code** and **intuitive user interfaces**.  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/isha-bhutto-29359621b/) or [Email](mailto:ishabhuutto@gmail.com).  
 
 ---
 
-### 🛠 **Skills & Tools**
-- **Mobile Development**: Flutter, Dart, Java
-- **Web Development**: HTML, CSS, PHP
-- **Database**: Firebase, SQLite, SQL
-- **State Management**: GetX, Provider
-- **CMS**: Strapi, WordPress
-- **Version Control**: Git, GitHub
-- **API Tools**: Postman
-- **UI/UX Tools**: Figma, Adobe Photoshop (Basic)
-- **Project Management**: ClickUp, Agile methodologies
-- **Other**: Firebase Push Notifications, TensorFlow Lite, OneSignal
+### 🏆 **Achievements**  
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ishabhutto&theme=onedark&no-frame=true&column=4" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-### 📊 **GitHub Stats**
-![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishabhutto&show_icons=true&theme=radical&count_private=true)
+### 🛠 **Skills & Tools**  
+#### **Languages & Frameworks**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhutto&layout=compact&theme=radical)
+#### **State Management**
+![GetX](https://img.shields.io/badge/GetX-%23858AE4.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-%23FFCA28.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-%23FF5722.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### **Databases**
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### **Tools**
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2300C4FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+#### **Other Technologies**
+![Strapi](https://img.shields.io/badge/Strapi-%23575D90.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-### ✨ **Let's Connect**
-- 🐦 [Twitter](https://twitter.com/ishabhutto) 
-- 💼 [LinkedIn](https://linkedin.com/in/isha-bhutto-29359621b/)
-- 📸 [Instagram](https://www.instagram.com/ishabhutto3064/)
-- 🎥 [YouTube](#)
+### 📊 **GitHub Stats (2025 Focused)**  
+![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=ishabhutto&show_icons=true&theme=radical&count_private=true&hide=stars&include_all_commits=true&custom_title=Isha%20Bhutto's%20GitHub%20Stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishabhutto&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhutto&layout=compact&theme=radical&langs_count=6)
+
+---
+
+### 🌟 **Additional Highlights**
+- 🏆 **Open Source Contributions**: Actively contributing to projects that make a difference in the developer community.  
+- 📚 **Blogging**: Writing insightful articles on Flutter and app development [here](#).  
+- 🌐 **Live Projects**: [Ekalakaar App](https://play.google.com/store/search?q=ekalakaar&c=apps) | [ReelMood](https://github.com/ishabhutto/final-year-project---reelmood)  
+
+---
+
+### ✨ **Connect with Me**
+<p align="left">
+<a href="https://twitter.com/ishabhutto" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/isha-bhutto-29359621b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/ishabhutto3064/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://stackoverflow.com/users/16891040/isha-bhutto" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
+</p>  
+
+---
+
+### ❤️ **Show Some Love**
+If you find my projects helpful, consider starring them and sharing your feedback! 🌟  
