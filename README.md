@@ -1,5 +1,5 @@
 ## Hi, I'm Isha Bhutto! 👋  
-I’m a Software Engineer with specialized expertise in Flutter Development, creating efficient, scalable, and visually appealing applications. With a solid foundation and hands-on experience in cross-platform mobile app development. I excel at transforming complex ideas into seamless user experiences. 
+I’m a **Software Engineer** with specialized expertise in **Flutter Development**, creating efficient, scalable, and visually appealing applications. With a solid foundation and hands-on experience in cross-platform mobile app development, I excel at transforming complex ideas into seamless user experiences.
 
 ---
 
@@ -54,15 +54,20 @@ I’m a Software Engineer with specialized expertise in Flutter Development, cre
 ---
 
 ### 📊 **GitHub Stats (2025 Focused)**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishabhutto&show_icons=true&theme=radical&count_private=true&hide=stars&include_all_commits=true&custom_title=Isha%20Bhutto's%20GitHub%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishabhutto&show_icons=true&theme=radical&count_private=true&hide=stars&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishabhutto&theme=radical)  
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishabhutto&theme=radical)
+
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhutto&layout=compact&theme=radical&langs_count=6)
+
 
 ---
 
 ### 🌟 **Additional Highlights**
 - 🏆 **Open Source Contributions**: Actively contributing to projects that make a difference in the developer community.  
+
 ### 🌐 **Final Year Projects**  
 #### [ReelMood](https://github.com/ishabhutto/final-year-project---reelmood)  
 🎬 **ReelMood** is a next-gen mood-based app that reads your emotions and delivers personalized reel recommendations just for you! 🤩  
