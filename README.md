@@ -1,5 +1,5 @@
 ## Hi, I'm Isha Bhutto! 👋  
-I am a passionate **Flutter Developer** with expertise in building efficient, scalable, and visually stunning applications. With hands-on experience in mobile and web development, I enjoy tackling complex challenges and turning ideas into reality.  
+I’m a Software Engineer with specialized expertise in Flutter Development, creating efficient, scalable, and visually appealing applications. With a solid foundation and hands-on experience in cross-platform mobile app development. I excel at transforming complex ideas into seamless user experiences. 
 
 ---
 
@@ -12,9 +12,9 @@ I am a passionate **Flutter Developer** with expertise in building efficient, sc
 ---
 
 ### 🏆 **Achievements**  
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ishabhutto&theme=onedark&no-frame=true&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ishabhutto&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ I am a passionate **Flutter Developer** with expertise in building efficient, sc
 ---
 
 ### 📊 **GitHub Stats (2025 Focused)**  
-![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=ishabhutto&show_icons=true&theme=radical&count_private=true&hide=stars&include_all_commits=true&custom_title=Isha%20Bhutto's%20GitHub%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishabhutto&show_icons=true&theme=radical&count_private=true&hide=stars&include_all_commits=true&custom_title=Isha%20Bhutto's%20GitHub%20Stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishabhutto&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhutto&layout=compact&theme=radical&langs_count=6)
@@ -63,8 +63,10 @@ I am a passionate **Flutter Developer** with expertise in building efficient, sc
 
 ### 🌟 **Additional Highlights**
 - 🏆 **Open Source Contributions**: Actively contributing to projects that make a difference in the developer community.  
-- 📚 **Blogging**: Writing insightful articles on Flutter and app development [here](#).  
-- 🌐 **Live Projects**: [Ekalakaar App](https://play.google.com/store/search?q=ekalakaar&c=apps) | [ReelMood](https://github.com/ishabhutto/final-year-project---reelmood)  
+### 🌐 **Final Year Projects**  
+#### [ReelMood](https://github.com/ishabhutto/final-year-project---reelmood)  
+🎬 **ReelMood** is a next-gen mood-based app that reads your emotions and delivers personalized reel recommendations just for you! 🤩  
+🔮 Powered by **TensorFlow Lite**, the app detects your mood in real-time and suggests reels that match your vibe. **Firebase** stores the dynamic content to make every experience fresh and exciting! 🚀  
 
 ---
 
@@ -79,4 +81,4 @@ I am a passionate **Flutter Developer** with expertise in building efficient, sc
 ---
 
 ### ❤️ **Show Some Love**
-If you find my projects helpful, consider starring them and sharing your feedback! 🌟  
+If you find my projects helpful, consider starring them and sharing your feedback! 🌟
