@@ -18,16 +18,17 @@ I’m a **Software Engineer** with specialized expertise in **Flutter Developmen
   </a>
 </p>
 
----
-
 ### 🛠 **Skills & Tools**  
 #### **Languages & Frameworks**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+</div>
 
 #### **State Management**
 ![GetX](https://img.shields.io/badge/GetX-%23858AE4.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -56,22 +57,28 @@ I’m a **Software Engineer** with specialized expertise in **Flutter Developmen
 ### 📊 **GitHub Stats (2025 Focused)**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishabhutto&show_icons=true&theme=radical&count_private=true&hide=stars&include_all_commits=true)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishabhutto&theme=radical)
-
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhutto&layout=compact&theme=radical&langs_count=6)
-
 
 ---
 
 ### 🌟 **Additional Highlights**
-- 🏆 **Open Source Contributions**: Actively contributing to projects that make a difference in the developer community.  
+- 🏆 **Open Source Contributions**: Actively contributing to projects that make a difference in the developer community.
 
-### 🌐 **Final Year Projects**  
-#### [ReelMood](https://github.com/ishabhutto/final-year-project---reelmood)  
-🎬 **ReelMood** is a next-gen mood-based app that reads your emotions and delivers personalized reel recommendations just for you! 🤩  
-🔮 Powered by **TensorFlow Lite**, the app detects your mood in real-time and suggests reels that match your vibe. **Firebase** stores the dynamic content to make every experience fresh and exciting! 🚀  
+---
+
+### 🌐 **Final Year Projects**
+### 🎬 **ReelMood** - Your Mood, Your Reels!  
+**ReelMood** analyzes your mood and serves **personalized reel recommendations** that match your vibe in real-time! Powered by **TensorFlow Lite**, it's the future of personalized content! 🚀  
+**Firebase** ensures fresh, dynamic content tailored to YOU! 😎
+
+#### **Key Features**:
+- **🌈 Mood Detection**: Get real-time mood analysis with advanced AI and feel the vibe!  
+- **🎯 Tailored Reels**: Reels picked for your mood, ensuring the perfect match every time!  
+- **🔄 Fresh Content**: Stay up-to-date with constantly refreshed recommendations from Firebase!  
+- **🚀 Smooth UI**: Built with **Flutter** for a sleek, interactive, and seamless experience!  
+
+[Check it out here](https://github.com/ishabhutto/final-year-project---reelmood)  
 
 ---
 
